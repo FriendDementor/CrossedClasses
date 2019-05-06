@@ -1,7 +1,7 @@
 #ifndef _TB_H_
 #define _TB_H_
 
-#include "shared.list"
+#include "defs.h"
 
 #include <iostream>
 

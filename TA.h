@@ -1,7 +1,7 @@
 #ifndef _TA_H_
 #define _TA_H_
 
-#include "shared.list"
+#include "defs.h"
 
 #include <iostream>
 
