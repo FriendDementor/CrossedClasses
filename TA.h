@@ -1,7 +1,7 @@
 #ifndef _TA_H_
 #define _TA_H_
 
-class TB;
+#include "shared.list"
 
 #include <iostream>
 
