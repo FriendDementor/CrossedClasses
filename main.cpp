@@ -7,5 +7,7 @@ int main()
 {
     TA ta;
     TB tb;
+    ta.Otro();
+    tb.Otro();
     return 0;
 }
